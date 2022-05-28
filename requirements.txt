@@ -1,0 +1,6 @@
+web3
+python-decouple
+
+# Test
+web3[tester]
+py-solc-x
